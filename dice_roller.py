@@ -1,3 +1,4 @@
+# modules
 import random
 
 def main():
