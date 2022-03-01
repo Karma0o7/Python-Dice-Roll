@@ -1,6 +1,7 @@
 # modules
 import random
 
+# main function
 def main():
 
   dice_rolls = int(input("How many dice would you like to roll?: "))
